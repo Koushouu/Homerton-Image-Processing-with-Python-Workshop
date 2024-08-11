@@ -41,11 +41,11 @@ Cheng-Yu Huang "Kou" (cyh37@cam.ac.uk)
 
 6. (**Do it over the dinner time**, as this takes longer) Install machine learning packages
     ```bash
-    conda install scikit-learn seaborn umap-learn 
+    pip3 install scikit-learn seaborn umap-learn 
     ```
     and 
     ```bash
-    conda install -c conda-forge hdbscan
+    pip3 install hdbscan
     ```
 
 ## Other resources
