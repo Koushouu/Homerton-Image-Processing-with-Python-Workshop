@@ -4,6 +4,8 @@ Teaching material for the image processing with python course at Homerton Colleg
 ## Contact
 Cheng-Yu Huang "Kou" (cyh37@cam.ac.uk)
 
+https://drive.google.com/drive/folders/1REqwtiGnpN3ny87VonwpauwFmX39IVO2?usp=sharing
+
 ## Pre-requirement for the workshop
 
 - Please install miniconda (https://docs.anaconda.com/miniconda/miniconda-install/) on your laptop (Yes, you need a laptop) and follow the “Creating a Python Environment for the workshop” workflow below for the setup.
