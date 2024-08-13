@@ -4,6 +4,8 @@ Teaching material for the image processing with python course at Homerton Colleg
 ## Contact
 Cheng-Yu Huang "Kou" (cyh37@cam.ac.uk)
 
+## Slides
+Slides used in this workshop can be found here:
 https://drive.google.com/drive/folders/1REqwtiGnpN3ny87VonwpauwFmX39IVO2?usp=sharing
 
 ## Pre-requirement for the workshop
